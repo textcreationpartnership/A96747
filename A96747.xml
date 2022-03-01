@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Major VVither's disclaimer: being a disavowment of a late paper, entituled The doubtfull almanack. Lately published in the name of the said Major Wither.</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96747</idno>
+            <idno type="STC">Wing W3153</idno>
+            <idno type="STC">Thomason E370_20</idno>
+            <idno type="EEBO-CITATION">99861819</idno>
+            <idno type="PROQUEST">99861819</idno>
+            <idno type="VID">160116</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160116)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E370[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Major VVither's disclaimer: being a disavowment of a late paper, entituled The doubtfull almanack. Lately published in the name of the said Major Wither.</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Austin,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Geo. Wither.</note>
+                  <note>Imprint from colophon; place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: on page 1: "Jan: 8th 1646"; on page 8: "1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Doubtfull almanack --  Early works to 1800.</term>
+               <term>Literary quarrels --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160116:1" rendition="simple:additions"/>
+            <head>MAJOR Wither's Diſclaimer: BEING A Diſavowment of a late <hi>Paper,</hi> ENTITULED <hi>The Doubtfull Almanack.</hi> 
+               <add>Jan: 8<hi rend="sup">th</hi> 1646</add>
+            </head>
+            <p>LATELY PUBLISHED In the name of the ſaid Major WITHER.</p>
+            <p>AMong the many abuſive <hi>Practiſes</hi> and <hi>Pamphlets</hi> now fre<g ref="char:EOLhyphen"/>quent, there is a <hi>Paper</hi> lately printed, and ſold, called <hi>The Doubtfull Almanack;</hi> which being Publiſhed in the Name of <hi>G: Wither,</hi> is therefore commonly reputed to have been compoſed and ſet forth by <hi>Geo. Wither</hi> Eſquire, lately knowne, by the Titles of <hi>Captaine</hi> and <hi>Major Wither;</hi> who ha<g ref="char:EOLhyphen"/>ving had a view thereof, and conſidering how great an impu<g ref="char:EOLhyphen"/>dence it is in the <hi>Divulger</hi> to intitle him thereunto, and how in<g ref="char:EOLhyphen"/>jurious, Forgeries of that nature might become if they ſhould be tolerated or paſſed by without diſlike; He doth hereby pub<g ref="char:EOLhyphen"/>likely diſclaime the ſaid <hi>Paper,</hi> as neither of his making, nor ju<g ref="char:EOLhyphen"/>ſtifiable in its own nature; And proteſteth that though it were as worthy the owning, as he could wiſh it had been; yet, he is no more ambitious to father other mens beſt <hi>Fancies;</hi> then de<g ref="char:EOLhyphen"/>ſirous to be thought Author of their baſeſt, and moſt miſchie<g ref="char:EOLhyphen"/>vous <hi>Inventions.</hi>
+            </p>
+            <pb n="2" facs="tcp:160116:2"/>
+            <p> Excuſe <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m therefore if he make haſt to ſend abroad this <hi>plea of Di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imer,</hi> eſpecially ſeeing he conceiveth, there is aſwell <hi>Malignancy</hi> coached in the <hi>Diſcourſe,</hi> as injurious dealing in the manner of recommending it to the People: For, that which to him appeareth to be principally deſigned (though it maketh a ſhow of ſomewhat els) ſeemeth to be of a very dangerous and ſeditious conſequence; and to be nothing ſutable to that <hi>Piety</hi> and <hi>Peace</hi> which is pretended by the <hi>Author:</hi> And if the Peece be well heeded and conſidered, he conceiveth it will be found an <hi>Engine</hi> contrived to helpe blow that <hi>Flame,</hi> which is too much kindled, and to widen that <hi>Breach</hi> which is too farre inlarged already, and which <hi>Flame</hi> and <hi>Breach,</hi> the ſaid Major <hi>Wither,</hi> up<g ref="char:EOLhyphen"/>on whom that paper is falſly fathered, hath ſeriouſly (though without thank from the generality of either Party) endeavou<g ref="char:EOLhyphen"/>red to quench and cloſe up to his utmoſt power.</p>
+            <p>It was not his intention, to expreſſe any thing in confutati<g ref="char:EOLhyphen"/>on of what is contained in the paper, but only to acquit him<g ref="char:EOLhyphen"/>ſelfe from being Authour thereof; yet, for prevention of what evill may els enſue, he thinks it his duty having juſt occaſion gi<g ref="char:EOLhyphen"/>ven to ſignifie what he ſuſpecteth both of the matter, and the Author, which in plain tearms is this; that the <hi>Author</hi> is ſome Ma<g ref="char:EOLhyphen"/>lignant <hi>Incendiarie,</hi> who according to the ſtrength of his wit contributeth to that ſecret <hi>Deſigne,</hi> which is proſecuted by other Jeſuiticall Projectors to ruine theſe Kingdomes, and to re-ad<g ref="char:EOLhyphen"/>vance Tiranny and the Throne of <hi>Antichriſt</hi> among us; And that to whomſoever he ſeemes to adhere, that, whomſoever he openly ſtrikes at, and whatſoever he diſſemblingly pretends, his main ſcope is to encreaſe the Rent, and to divide the <hi>Nations,</hi> the <hi>King,</hi> the <hi>Parliament,</hi> and the <hi>People</hi> further from each o<g ref="char:EOLhyphen"/>ther; and by exaſperating the <hi>Preſbyterians</hi> againſt the <hi>Inde<g ref="char:EOLhyphen"/>pendents,</hi> and the <hi>Independents</hi> againſt the <hi>Preſbyterians,</hi> to re<g ref="char:EOLhyphen"/>new the war, to the weakning, or tearing of all in pieces, that ſo either the enraged and untamed <hi>Lyons,</hi> or <hi>Leopards</hi> at home may prey upon us; or, that when we have acted over the fabu<g ref="char:EOLhyphen"/>lous Battailes of the <hi>Frogs</hi> and <hi>Mice,</hi> we may be devoured by the <hi>Kites</hi> and <hi>Eagles</hi> from abroad,</p>
+            <p>And, this may juſtly enough be ſuſpected, though there were
+<pb n="3" facs="tcp:160116:2"/>no other probabilities thereof, but the ſaid <hi>Authors</hi> acting of a <hi>lie,</hi> in fathering the ſpurious iſſue of his brain upon another man without his conſent or knowledge, that he might play the In<g ref="char:EOLhyphen"/>cendiary with the more ſecurity, at another mans hazzard: For he hath ſufficiently manifeſted thereby, that neither he him<g ref="char:EOLhyphen"/>ſelfe nor his <hi>Deſigns,</hi> are ſo honeſt as they ſhould be; And doubtleſſe, if that God had beene in his heart, whoſe name in his Paper, he hath ſo often taken in vaine; or, if his zeale to the preſervation of purity in Religion had been as hearty and as true as he would have inſinuated; that <hi>Religion</hi> would have in<g ref="char:EOLhyphen"/>formed him, we ought not to make a lie for God; much leſſe to the injury, or diſadvantage of our Brother.</p>
+            <p>But, by the thanks which was this day given unto the ſaid Major for the Paper, by ſome who believed it to be his, and by the commendations which is applied thereto by many, the Ma<g ref="char:EOLhyphen"/>lignancy of the ſaid Paper ſeemth to be either none at all, or ſo couched, that every Reader cannnot diſcover it; And indeed, the poyſon is ſo cunningly infuſed, that it may be received, and operate alſo ſo inſenſibly, that the miſchiefe may be done, before it will be diſcovered, that any thing elſe but a benefit was in<g ref="char:EOLhyphen"/>tended. Be pleaſed therefore, for your better diſcovery there<g ref="char:EOLhyphen"/>of, to examine the Authors parallelling of the <hi>King</hi> and the <hi>Parliament,</hi> with <hi>David</hi> and <hi>Abſalom.</hi> For, though to blind your eyes he confounds you in the <hi>parallell,</hi> and puzzells you in the <hi>Allegorie,</hi> with an Application thereof to <hi>Sectaries</hi> and <hi>Schiſ<g ref="char:EOLhyphen"/>maticks,</hi> whoſe inſinuations and Treacheries he alludeth to the practiſes of Rebellious <hi>Abſalom;</hi> yet if you heed his legerde<g ref="char:EOLhyphen"/>main and what is caſt in, whileſt you are looking another way; and what reall Friends of our are covertly ſtabbed whileſt they pretend to be in a furious purſuite of our ſeeming enemies, you ſhall find that your <hi>Almanack-Maker</hi> who uſurpes the name of <hi>Geo: Wither,</hi> is likely to be aſwell a fatherer, as a <hi>Preſager,</hi> of the Calamities which his <hi>Prognoſtication</hi> ſaith are yet to enſue.</p>
+            <p>Let them who yet perceive not this jugling, but take <hi>Major Withers</hi> Spectacles and read the laſt five lines of the third page of that <hi>Doubtfull Almanack,</hi> eſpecially theſe words in a pa<g ref="char:EOLhyphen"/>rentheſis, (<hi>a Prince a great while ſince</hi> Davids <hi>daies, did himſelfe
+<pb n="4" facs="tcp:160116:3"/>the greateſt injurie, when he intended to his people the greateſt Boon</hi>) conſider well theſe words; for by them, weighed with what precedes and followes you may plainly perceive the Authors opi<g ref="char:EOLhyphen"/>nion of a large bounty and indulgence in the King toward his Parliament, and of of a traiterous ingratitude of the Parliament towards him.</p>
+            <p>In the fourth page he hath theſe words, <hi>Oh! nothing is ſo favou<g ref="char:EOLhyphen"/>able for the Covert of black-Deſignes, as ſome exerciſe of Religion: Be ſure that be ſtrongly pretended, when you mainly intend this, and all's well: to act devotion, while one plots villany, frees the Deſigne, not only from ſuſpition; but procures a good opinion of it;</hi> And that this is ſpoken to inſinuate that the <hi>Parliament</hi> hath under the colour of a Religious Reformation, abuſed the Kings Grace, and his truſt repoſed therein, it ſeems very manifeſt, by the de<g ref="char:EOLhyphen"/>pendence it hath on what goes before, and by the impertinency of that clauſe to any other purpoſe: For, the <hi>Parallel</hi> is not yet reſtrained to the <hi>Sectaries,</hi> but relateth to thoſe for whoſe ſake, as he ſaith, <hi>a Prince a great while ſince</hi> Davids <hi>daies, did himſelfe the greateſt injurie by intending the greateſt boon to his people;</hi> which muſt unqueſtionably mean the Parliament and the Priviledges by him granted thereunto, or ſignifie nothing; as muſt alſo that which followes in the fifth page, (mentioning <hi>Sadocks</hi> and <hi>Abia<g ref="char:EOLhyphen"/>thars and Gods chiefe Prieſts in Ordinarie, ſticking cloſe to</hi> David, &amp;c. For it appears as if purpoſely inſerted, to illuſtrate the faithfulneſſe of the <hi>Prelates</hi> and thoſe <hi>Court-Chaplaines, with their companions of the Clergie,</hi> who followed the King when he deſerted the <hi>Parliament,</hi> and tacitly to impute traiterouſneſſe to thoſe, who adhered thereunto, in their <hi>Abſalom-like</hi> Re<g ref="char:EOLhyphen"/>bellion againſt the <hi>King,</hi> as he would have it underſtood by his <hi>Parallel.</hi>
+            </p>
+            <p>A little afterward, in the ſame page, you may perceive him following his falſly applyed <hi>Allegorie,</hi> to the giving of the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> two other ſecret wounds, as he perhaps hoped; The one by inſinuating, as if they had raiſed their Armies with no better warrant then <hi>Abſalom;</hi> and to as wicked a purpoſe, which is inti<g ref="char:EOLhyphen"/>mated in theſe words, though ſcarce ſence; <hi>He marched into the field with a puiſſant Army, and give him but a pitch'd battel, both
+<pb n="5" facs="tcp:160116:3"/>for King and David;</hi> The other wound which he ſeems to hope he ſhall give them, is, by intimating that they had unjuſtly ſlan<g ref="char:EOLhyphen"/>dered the Kings Government, and abuſed the people with faire promiſes, to place themſelves at the <hi>helme;</hi> which (he ſaith) <hi>is a wile much practiſed among us within theſe few yeares,</hi> and whom can he mean hereby but the <hi>Parliament,</hi> though they have given no juſt occaſion that he ſhould ſo mean? for neither the <hi>Independents</hi> nor <hi>Preſbyterians</hi> by themſelves can bee ſaid to have aſſumed on them any Supreme Government.</p>
+            <p>In the ſixth page (though in a confuſed manner) the Story is made uſe of alſo to hint unto the People (as very probably ap<g ref="char:EOLhyphen"/>pears) by <hi>Davids</hi> indulgence to <hi>Abſalom</hi> (notwithſtanding his horrible unnaturall rebellion) how tenderly ſenſible the <hi>King</hi> is of the great plagues which are like to fall on his <hi>Abſalom-like Parliament;</hi> and yet, how ſtubbornely they ſtill perſevere in their Rebellion againſt him, yea, this Author ſeems deſirous to have thereby inferred (if his perplexed expreſſions could have reached thereunto) that the <hi>King</hi> is and was ſo far from being an enemie to the <hi>Parliament,</hi> or from ſeeking the deſtruction thereof, that he could be as well content to die for the preſer<g ref="char:EOLhyphen"/>vation thereof, as <hi>David</hi> was, for the ſalvation of his Sonne: If this be not his meaning, it is hard to ſay what meaning he hath in all that which is inſerted of <hi>Davids</hi> greeving for <hi>Ab<g ref="char:EOLhyphen"/>ſalom:</hi> And, if that be his meaning, then what opinion he hath, of the <hi>Parliaments</hi> arming in defence of the peoples Priviledges and ſafety, it may eaſily be judged. And if it may juſtly be inſi<g ref="char:EOLhyphen"/>nuated, that the King is, and hath-been ſo affected, as this <hi>Prog<g ref="char:EOLhyphen"/>noſticator</hi> would by his Paralell imply (and as many do now be<g ref="char:EOLhyphen"/>gin to perſwade the People as farre as they yet dare) then doubt<g ref="char:EOLhyphen"/>leſſe all the world is not able to excuſe the Parliament and their Adherents, from being as trecherous and ungratefull as <hi>Abſa<g ref="char:EOLhyphen"/>lom;</hi> Let the King (in Gods name) be juſtified or excuſed, or his failings connived at, ſo far forth as it may ſtand with juſtice and charity; yea let that be given to <hi>Caeſar,</hi> which is due unto <hi>Caeſar,</hi> but let Gods due and the Peoples Rights and Priviledges be therewith preſerved.</p>
+            <p>Now to colour over all his malignancy (hitherto not ſo
+<pb n="6" facs="tcp:160116:4"/>fully ſhadowed, but that it might have been deſcride, with<g ref="char:EOLhyphen"/>out ſome other cloake or evaſion) that Authour leads you aſide, by improperly making the <hi>Sectaries</hi> ſeeme to bee his in<g ref="char:EOLhyphen"/>tended <hi>Parallel</hi> to <hi>Abſalom;</hi> which, how abſurdly it will qua<g ref="char:EOLhyphen"/>drate with the <hi>Story,</hi> let the prudent judge. If the <hi>Independents</hi> or <hi>Sectaries</hi> (call them what you pleaſe) may be ſo juſtly paral<g ref="char:EOLhyphen"/>lelled with <hi>Abſalom</hi> as this Pamphleter affirmes, let them look to it whom it concernes; The <hi>Major,</hi> for his part, reſolveth to be as wary as hee can, neither to juſtifie the wicked, nor con<g ref="char:EOLhyphen"/>demne the innocent, but to looke to his owne wayes, and his owne heart, as well as he may: And (if his councell might be taken) would adviſe his brethren of both Parties, that their af<g ref="char:EOLhyphen"/>faires might be mannaged with ſo much juſtice, prudence and charity, towards all men hereafter, that the wheat may diſ<g ref="char:EOLhyphen"/>creetly be divided from the ſtraw and the chaffe, by the flaile and the fan; and not purged according to the humour of thoſe Incendiaries, who will ſet the whole barne on fire, if they be not looked unto in time.</p>
+            <p>It is plainly enough to be ſeen without an extraordinary <hi>Perſpective,</hi> and to be fore-ſeen, without an <hi>Almanack,</hi> what Deſignes are now in proſecution, and what will certainely fol<g ref="char:EOLhyphen"/>low, if the bitterneſſe of contradictory Parties be not ſweetned with more charity and diſcretion then yet appears among us; and it is evident how little hope there would be of having it e<g ref="char:EOLhyphen"/>ver otherwiſe, if every man ſhould ingage himſelfe as wilfully and as unreaſonably, to ſtrengthen <hi>one Party,</hi> as many doe, and none be as <hi>third Perſons</hi> or <hi>Mediums,</hi> to cement us together, before the policy which is now working, hath irreconcileably divided us, to our irrecoverable deſtruction.</p>
+            <p>Thus much hath Major <hi>Wither</hi> thought fit to ſignifie upon the occaſion offered by the divulging of the fore-ſaid paper in his name; not for ſuch ends as may be perhaps imagined; but, leſt by being ſilent, he might faile of his duty, and have many o<g ref="char:EOLhyphen"/>ther things falſely imputed unto him, and father'd upon him hereafter, to the wronging of himſelfe and his Readers, whom he would not willingly permit to be deceived by ought divul<g ref="char:EOLhyphen"/>ged in his name. He is neither of <hi>Paul,</hi> nor of <hi>Apollo,</hi> nor of
+<pb n="7" facs="tcp:160116:4"/>
+               <hi>Cephas,</hi> but as they are of <hi>Chriſt;</hi> nor againſt any but in that which is againſt him, and his Kingdome: nor hath he ſo learned him, as wittingly to ſeek his owne peace, or profit, by dividing from, or by adhering to any <hi>Party,</hi> to the infringement either of the peace of Chriſts Kingdome, of theſe Kingdomes, or of his own conſcience: but hath ever endeavoured, according to his power, to put himſelfe into ſuch a Chriſtian, and civill po<g ref="char:EOLhyphen"/>ſture, and ſo to continue therein, that he may be an inſtrument of generall reconciliation, and one of thoſe <hi>Peace-makers,</hi> that ſhall be numbred among the Children of God, whatſoever he be eſteemed among men. And he having hitherto ſpoken for himſelfe in a third perſon, will now add a briefe concluſion thereunto, in his own Perſon, and in his proper <hi>Straine.</hi>
+            </p>
+            <lg>
+               <l>This <hi>Brat,</hi> to him that got it, I return;</l>
+               <l>Or, to the Pariſh, where the ſame was born;</l>
+               <l>Leſt halfe the <hi>miſbegotten</hi> in the Town,</l>
+               <l>To finde a father, at my doore be throwne:</l>
+               <l>Or, leſt they ſhame me; or, may me conſtraine</l>
+               <l>To father more, then I can well maintaine.</l>
+               <l>For, you already in moſt houſes finde</l>
+               <l>So many ſeverall children, in this kinde,</l>
+               <l>Of my begetting; and, I have at home</l>
+               <l>So many too, not ſtrong enough become</l>
+               <l>To walk abroad) that I much more had rather</l>
+               <l>To let my neighbours thoſe <hi>Eſcapes</hi> to father,</l>
+               <l>Then father theirs; although it be no ſhame</l>
+               <l>To have them known, and called by my name.</l>
+            </lg>
+            <lg>
+               <l>This <hi>Baſtard</hi> is not like me in the <hi>pace,</hi>
+               </l>
+               <l>Nor in the <hi>language;</hi> neither in the <hi>face,</hi>
+               </l>
+               <l>Nor in <hi>condition,</hi> ſo reſembling me,</l>
+               <l>As that, it mine, it may appeare to be.</l>
+               <l>For, when two Parties I do guilty know,</l>
+               <l>I ſtrike not one, and let the other go,</l>
+               <l>But give them all their due, without regard,</l>
+               <l>Or feare, of what may follow afterward;</l>
+               <l>Though oft thereby I faire preferments loſe,</l>
+               <l>Diſpleaſe my Friends, and multiply my foes.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:160116:5" rendition="simple:additions"/>
+               <l>I am not ſo reſerved, as to make</l>
+               <l>(As this man did) a <hi>Doubtfull Almanack,</hi>
+               </l>
+               <l>Of that which might be certainly foretold,</l>
+               <l>If they whom it concernes regard it would.</l>
+               <l>Nor will I do it, though I ſhall be ſure</l>
+               <l>Of ſuch requitall while my dayes indure.</l>
+               <l>And they who doubt this, ſhall their errour ſee,</l>
+               <l>As often as occaſions offred be.</l>
+            </lg>
+            <lg>
+               <l>But ere I next adventure on the Preſſe,</l>
+               <l>I meane to get my ſelfe another <hi>Dreſſe;</hi>
+               </l>
+               <l>And come forth cleare from dirt, late ſprinkled on me.</l>
+               <l>Mean while, I'm pleas'd, that they who wrong have done me,</l>
+               <l>Should brag a while; and have a time to ſhow</l>
+               <l>Their malice: and that I my friends may know.</l>
+               <l>Yea, I am pleas'd a while to be your Debter,</l>
+               <l>For anſwering the late injurious LETTER,</l>
+               <l>Writ by the KNAVE OF SPADES, or by his CLARK,</l>
+               <l>And publiſht by the DEVILL in the dark.</l>
+               <l>Till then therefore, my Readers all, adieu;</l>
+               <l>And be to me, as I ſhall prove to you.</l>
+            </lg>
+            <bibl>
+               <hi>Geo. Wither.</hi>
+            </bibl>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>R. Auſtin.</hi> 1647. <add>1646</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
